@@ -7,4 +7,4 @@
 
   =>  Template Author  : Vallabh Bhat
 
-  =>  Author Website   : https://www.linkedin.com/in/vallabh-bhat/
+  =>  Author Profile   : https://www.linkedin.com/in/vallabh-bhat/
